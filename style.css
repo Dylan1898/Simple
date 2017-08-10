@@ -1,0 +1,49 @@
+body{
+    width:70%;
+    margin: 0 15%;
+    position: absolute;
+    text-align: center;
+    border: 2px solid grey;
+    background-color: beige
+
+}
+#work{
+    
+    background-color:green 
+}
+div{
+    position: relative;
+    height:200px;
+     width:48%; 
+     display: inline-block; 
+    background-color: lightgrey;
+    /* position:relative */
+    /* line-height: 200px; */
+    margin: 3px 6px;
+    border: 2px solid grey
+
+}
+button{
+    margin:10% auto;
+    text-align: center;
+    height:20%
+}
+.overflow{
+    overflow:scroll
+}
+#para{
+    margin:10% auto;
+    /* text-align: center; */
+    font-size: 3em;
+    position: relative;
+    
+}
+.odd{
+    float: left
+}
+.even{
+    float:right
+}
+.middle{
+    margin:6px 24%
+}
