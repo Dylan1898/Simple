@@ -62,6 +62,7 @@ var li= document.createElement('li')
 li.innerHTML=friends[i]
 addList.appendChild(li)
 }
+
 })
 
  var res = sentence.split(" ");
@@ -74,6 +75,7 @@ btn5.addEventListener('click',function(){
 lis[i].innerHTML=res[i]
 // addList.appendChild(lis)
 }
+friends=[]
 })
 
 
